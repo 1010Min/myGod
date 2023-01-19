@@ -1,0 +1,18 @@
+[ 문단 순서 변형 문제 ]
+
+Q. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
+=============================================================================
+ However, I forced myself to stay awake to begin my trip in earnest.
+=============================================================================
+
+(A)
+Rome was like a giant museum to me. We began our sightseeing at the Colosseum. Nowadays, we can only see a part of what was once the greatest structure in the ancient world. It amazed me to think that people could build such a structure without modern construction equipment. The Colosseum has eighty arches through which about fifty thousand people could go in and out in fifteen minutes! As I reached the top of the stairs inside, I looked down and I could almost hear the cheer of the crowd.
+
+(B)
+Who in Rome could miss out on a chance to visit Vatican City, the place where the Pope lives? It is known as the smallest state in the world. In fact, it takes only thirty minutes to walk from one border to the other! I was overwhelmed, however, by the collection of sculptures and paintings in the Vatican Museums. The Creation of Adam, one of Michelangelo's masterpieces, on the ceiling of the Sistine Chapel, still lingers in my mind. Although I knew photographs are not allowed, the masterpiece was so impressive that I almost took one. After looking around, we walked out to see many people lined up in front of a small store where green apple gelato was served. Suji convinced me to wait in line for over twenty minutes saying that it would be worth it. She was right: the gelato was out of this world.
+
+(C)
+Suji and I walked along a path leading away from the Colosseum and heard the sound of falling water. We knew instantly that we were near the famous Trevi Fountain. Legend says that a single coin thrown into the fountain will ensure a return to Rome, a second coin will bring true love, and a third coin marriage! I threw one over my shoulder, wishing a return to Italy someday. I found it interesting that even on the other side of the world, people still wish for simple things like happiness, love, and marriage.
+
+1.(A)-(C)-(B)	2.(B)-(A)-(C)	3.(B)-(C)-(A)
+4.(C)-(A)-(B)	5.(C)-(B)-(A)

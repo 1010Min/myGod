@@ -1,0 +1,24 @@
+[ 문단 순서 변형 문제 ]
+
+Q. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
+=============================================================================
+ I hope it will help you make the most of your high school years.
+=============================================================================
+
+(A)
+Top Four Tips
+ Get enough sleep. If you do, you can stay fully awake and concentrate better in class.
+ Learn to say no. Sometimes things will keep you from focusing on your studies, but you have to learn to say no to them to be a successful student.
+ Ask questions. Confucius once said, “The man who asks a question is a fool for a minute, but the man who does not ask is a fool for life.”
+ Remain humble and open-minded. When someone gives you advice, listen to it and follow it if it makes sense.
+
+(B)
+Show Your True Colors
+ When I started high school, I was caught up in popularity contests. I often spent all my pocket money buying snacks for my classmates. To make friends with the “cool kids,” I often acted as if I were the kind of person they wanted me to be. I was afraid to show my true self. However, it did not take long to learn that all the effort was useless. When I was in the hospital for two weeks, not one of the  kids I had tried to impress visited me. To my surprise, the two quiet boys I had barely talked to came and cheered me up. I learned an important lesson: pretending to be someone else does you no good. It is better to be yourself and show your true colors.
+
+(C)
+Get Involved
+ High school is more than just schoolwork, so find your interests and pursue them by joining school clubs. This offers many benefits. For instance, club activities can relieve stress from schoolwork. They also help you meet people who share the same interests and make it easier to become friends with them. Moreover, some of these new friends may be students from the upper grades who can tell you how to deal with classes and teachers. You could instantly learn tips that took them a year to learn.
+
+1.(A)-(C)-(B)	2.(B)-(A)-(C)	3.(B)-(C)-(A)
+4.(C)-(A)-(B)	5.(C)-(B)-(A)
